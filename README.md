@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--img  alt="banner" src="https://github.com/montjoile/montjoile/blob/main/banner.jpg" />-->
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hola!
@@ -7,7 +5,7 @@
 
 My name is Rishab, I’m a Data scientist living in India. I’m a Pythonista and a machine learning enthusiast. Besides researching and coding, I also love writing blogs, trekking and sharing random unproductive memes 😅
 
-<img width="55%" align="right" alt="Github" src="https://github.com/montjoile/montjoile/blob/main/image.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rishab-sharma/rishab-sharma/main/image.svg" />
 
 [![Github](https://img.shields.io/badge/-Github-330c83?style=flat&logo=Github&logoColor=white)](https://github.com/rishab-sharma)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-330c83?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishab-sharmaddn)
