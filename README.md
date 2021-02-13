@@ -3,7 +3,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hola!
 
 
-My name is Rishab, I’m a Data scientist living in India. I’m a Pythonista and a machine learning enthusiast. Besides researching and coding, I also love writing blogs, trekking and sharing random unproductive memes 😅
+My name is Rishab, I’m a Data scientist living in India. I’m a Pythonista and a visual computing researcher. Besides researching and coding, I also love writing blogs, trekking and sharing random unproductive memes 😅
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rishab-sharma/rishab-sharma/main/image.svg" />
 
