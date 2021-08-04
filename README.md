@@ -34,4 +34,4 @@ You can also find me on:
 - 🔭 I’m currently working on some neural network optimisation.
 - 🌱 I’m currently learning Large Scale Infra Designing.
 - 👯 I’m looking to collaborate on any cool Deep Learning Research related to Computer Vision.
-- ⚡ Fun fact: I cat eat two burgers at the same time.
+- ⚡ Fun fact: I can eat two burgers at the same time.
